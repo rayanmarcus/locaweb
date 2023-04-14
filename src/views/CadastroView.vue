@@ -10,7 +10,7 @@ export default {
   name: 'cadastroView',
   mixins: [changeTitlePage],
   async mounted () {
-    this.changeTitlePage('Cadastro - Locaweb')
+    this.changeTitlePage('Cadastro • Locaweb')
   }
 }
 

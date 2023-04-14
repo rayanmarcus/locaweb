@@ -15,7 +15,7 @@ export default {
     LoginUser
   },
   mounted () {
-    this.changeTitlePage('Login - Locaweb')
+    this.changeTitlePage('Login • Locaweb')
   }
 }
 </script>
