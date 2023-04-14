@@ -1,29 +1,21 @@
-# challenge-cadastro-adoreei
+# Locaweb - Desafio Técnico da Adoreei
 
-## Project setup
-```
-npm install
-```
+## 🤖 Configurando o projeto
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### Clone ou faça o download do repositório e execute os seguintes comandos:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#### <span style="padding: 3px 3px; background: blue; color: #fff;">🛠 Instalação de dependências</span>
 
-### Run your unit tests
-```
-npm run test:unit
-```
+👉 `npm install`
 
-### Lints and fixes files
-```
-npm run lint
-```
+#### <span style="padding: 3px 3px; background: blue; color: #fff;">💻 Para iniciar o ambiente de desenvolvimento</span>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+👉 `npm run serve`
+
+#### <span style="padding: 3px 3px; background: green; color: #fff;">👌 Para colocar o projeto em produção</span>
+👉 `npm run build`
+
+### <span style="padding: 3px 3px; background: green; color: #fff;">🧐 Lints e fixes files</span>
+👉 `npm run lint`
+
+## 🤖 Screeshots do sistema
