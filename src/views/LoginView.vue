@@ -1,7 +1,5 @@
 <template>
-  <div class="home">
-    <LoginUser/>
-  </div>
+  <LoginUser/>
 </template>
 
 <script>
@@ -14,7 +12,7 @@ export default {
   components: {
     LoginUser
   },
-  mounted () {
+  created () {
     this.changeTitlePage('Login • Locaweb')
   }
 }

@@ -1,0 +1,16 @@
+/* Arquivo com os estilos especificos do projeto */
+@import './_variables.scss';
+input.lw-control {
+  border: 1px solid #515d7480;
+  height: 4em;
+}
+.lw-link{
+  color: $color-primary;
+  text-decoration: underline;
+}
+.lw-btn-login{
+  width: 100%;
+  color: #fff;
+  padding: 1em;
+  background: $color-primary;
+}

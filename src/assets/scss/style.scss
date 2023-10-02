@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;700&display=swap');
+@import './lw-styles.scss';
+
+body {
+  font-family: 'Sora', sans-serif !important;
+  background-color: #FAFAFC;
+}
+h1 {
+  font-weight: 700;
+  font-size: 28px;
+  color: $color-gray-high;
+}
+h5 {
+  color: $color-gray-high;
+}
+label {
+  margin: 0;
+}
